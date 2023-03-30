@@ -4,7 +4,7 @@
 Live test is a java file (LiveTests.java) used to test code units, as well as see the results of the codes in question.
 Unit testing refers to the testing of individual components in the source code, such as classes and their provided methods. The writing of tests reveals whether each class and method observes or deviates from the guideline of each method and class having a single, clear responsibility.
 To use the Live Tests file, follow the instructions below:
-1 – Download the LiveTests.java file from the GitHub repository (repository link), or ask your supervisor for it.
+1 – Download the LiveTests.java file from the GitHub repository ([repository link](https://github.com/Emmanuel0077/How-to-use-Live-test/tree/main)), or ask your supervisor for it.
 2 - Open the file and select the port of the Database you want to test your method on.
 Note: The selection of the DB is defined on “private final String dbconnectionUrl = __________”
 Ex1: private final String dbConnectionUrl = "jdbc:mysql://localhost:3320/openmrs?useSSL=false";
